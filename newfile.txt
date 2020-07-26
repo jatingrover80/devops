@@ -1,1 +1,2 @@
 it a new file, created in DEV branch
+it is second line in the new file
